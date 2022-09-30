@@ -1,5 +1,4 @@
-# DEV-01, Understanding Bones
-
+# DEV-01, Chapter 1: Armatures Intro
 
 ## Rigging Guinea Pig 
 
@@ -12,15 +11,6 @@
     Managing view settings for bones
 
 <img src="../images/DEV-01/DEV-01-A4.png" width="1100"/>
-<!-- <img src="../images/DEV-01/DEV-01-A7.png" width="1100"/>
-<img src="../images/DEV-01/DEV-01-A8.png" width="1100"/>
-<img src="../images/DEV-01/DEV-01-A9.png" width="1100"/> -->
-<!-- <img src="../images/DEV-01/DEV-01-A10.png" width="1100"/>
-<img src="../images/DEV-01/DEV-01-A11.png" width="1100"/>
-<img src="../images/DEV-01/DEV-01-A12.png" width="1100"/>
-<img src="../images/DEV-01/DEV-01-A13.png" width="1100"/>
-<img src="../images/DEV-01/DEV-01-A14.png" width="1100"/>
-<img src="../images/DEV-01/DEV-01-A15.png" width="1100"/> -->
 
 ## Naming, Connecting and Parenting Bones
 <img src="../images/DEV-01/DEV-01-B1.png" width="1100"/>
